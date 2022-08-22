@@ -21,5 +21,5 @@ jobs:
       - name: build the image
         run: |
           docker buildx build --push \
-            --tag zklcdc/judgeserver:arm64 \
+            --tag zklcdc/backend:arm64 \
             --platform linux/arm64 .
