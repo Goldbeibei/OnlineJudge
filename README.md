@@ -32,10 +32,13 @@
 
 Main modules are available below:
 
-- Backend(Django): [https://github.com/Harry-zklcdc/OnlineJudge](https://github.com/Harry-zklcdc/OnlineJudge)
-- Frontend(Vue): [https://github.com/Harry-zklcdc/OJ](https://github.com/Harry-zklcdc/OJ)
-- Judger Sandbox(Seccomp): [https://github.com/Harry-zklcdc/Judger](https://github.com/Harry-zklcdc/Judger)
-- JudgeServer(A wrapper for Judger): [https://github.com/Harry-zklcdc/JudgeServer](https://github.com/Harry-zklcdc/JudgeServer)
++ Backend(Django): [https://github.com/Goldbeibei/OnlineJudge](https://github.com/Goldbeibei/OnlineJudge)
++ Frontend(Vue): {https://github.com/Goldbeibei/OJ](https://github.com/Goldbeibei/OJ)
++ Judger Sandbox(Seccomp): [https://github.com/Goldbeibei/Judger](https://github.com/Goldbeibei/Judger)
++ JudgeServer(A wrapper for Judger): [https://github.com/Goldbeibei/JudgeServer](https://github.com/Goldbeibei/JudgeServer)
+
+**## 我加入的功能合輯**
++ 測資自動化產生工具(Python): https://github.com/Goldbeibei/ecejudge-test-case-cplusplus
 
 ## Installation
 
